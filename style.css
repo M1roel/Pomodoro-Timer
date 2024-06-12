@@ -1,0 +1,30 @@
+body {
+    background-color: #f7f5dd;
+    font-family: Courier, monospace;
+    text-align: center;
+    padding: 50px;
+}
+#title {
+    color: #9bdeac;
+    font-size: 50px;
+}
+#timer {
+    color: white;
+    font-size: 35px;
+    background-image: url('tomato.png');
+    background-size: cover;
+    width: 200px;
+    height: 224px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+}
+#check-marks {
+    color: #9bdeac;
+    font-size: 25px;
+}
