@@ -54,6 +54,3 @@ function countDown(count) {
     document.getElementById("check-marks").textContent = marks;
   }
 }
-
-document.getElementById("start-button").addEventListener("click", startTimer);
-document.getElementById("reset-button").addEventListener("click", resetTimer);
